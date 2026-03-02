@@ -1,0 +1,7 @@
+# requirements.txt
+aiogram==2.25.1
+python-dotenv==1.0.0
+aiofiles==23.2.1
+pytz==2023.3
+pandas==2.0.3
+openpyxl==3.1.2
